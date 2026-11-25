@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Build & release artifacts
+dist/
+*.zip
+*.exe
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
